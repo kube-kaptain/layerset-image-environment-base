@@ -1,4 +1,4 @@
-apiVersion: kaptain.org/1.11
+apiVersion: kaptain.org/1.16
 kind: docker-build-dockerfile
 metadata:
   description: "Image environment base layerset - composes quality and docker build settings"
