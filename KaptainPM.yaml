@@ -1,9 +1,9 @@
-apiVersion: kaptain.org/1.16
+apiVersion: kaptain.org/1.29
 kind: layer-and-layerset-build
 metadata:
   description: "Layerset composing quality and docker settings for image-environment-base images"
 
 spec:
   layers:
-    - layerset-and-layer-build:[1.4,2.0)
+    - layerset-and-layer-build:[1.7]
 
